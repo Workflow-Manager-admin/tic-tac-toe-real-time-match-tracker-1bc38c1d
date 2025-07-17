@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-real-time-match-tracker-1bc38c1d/tic_tac_toe_frontend"
+}
